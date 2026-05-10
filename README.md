@@ -23,6 +23,10 @@ A canary-protected binary where the trick was to *use* the canary mechanism in o
 
 The full list of challenges with detailed solutions is in [`challenges/`](challenges/).
 
+## License
+
+[MIT](LICENSE) — applies to my own work in this repo (writeups, scripts, exploits). Class-distributed source/binaries (e.g. the contents of [`programs/`](programs/)) retain their original course copyright.
+
 ## Sequence
 
 Part of a five-piece cybersecurity coursework cluster:
