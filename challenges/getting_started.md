@@ -1,0 +1,1 @@
+This was the first challenge—likely intended as a warm-up to get a feel for the game’s style. I had to open the hints dropdown and find the flag hidden there: `congrats_you_found_the_key`. After submitting it, the challenge was marked as complete.
